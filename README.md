@@ -6,7 +6,5 @@ Sou uma pessoa ativa, dedicada e que adora desafios e inovação. Como grande cu
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/camila-das-merces)](https://www.linkedin.com/in/camila-das-merces)
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilamerces&layout=compact" width="400" height="200">
-<p>
-  
- ![Camila's github stats](https://github-readme-stats.vercel.app/api?username=camilamerces&show_icons=true&theme=buefy)
+
+![Camila's github stats](https://github-readme-stats.vercel.app/api?username=camilamerces&show_icons=true&theme=buefy)
